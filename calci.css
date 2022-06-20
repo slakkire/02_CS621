@@ -1,0 +1,27 @@
+body{
+    /* background-color:aquamarine; */
+    background-image: url('blazer.jpg');
+}
+.controllers{
+    margin: 30px;
+    margin-left: 500px;
+}
+.first{
+    padding: 7px;
+}
+.ctr{
+    padding: 15px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+button:hover{
+    background-color: grey;
+}
+h3{
+    margin-left: 500px;
+    font-size: 25px;
+}
+.results{
+    padding: 20px;
+    background-color:white;
+}
